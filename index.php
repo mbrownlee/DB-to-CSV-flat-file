@@ -5,7 +5,7 @@
 <body>
 
     <div class="container">
-            <form action="functions.php" method="post" name="upload_excel" enctype="multipart/form-data">
+            <form action="tryAgain.php" method="post" name="upload_excel" enctype="multipart/form-data">
                     <input type="submit" name="Export" class="btn" value="export to excel" />
     </div>
     <style>
